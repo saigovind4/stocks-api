@@ -1,0 +1,99 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 187.23,
+    "change": -1.23
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "price": 229.50,
+    "change": 2.31
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "price": 129.85,
+    "change": -0.43
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 2745.39,
+    "change": 12.54
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "price": 345.62,
+    "change": -3.12
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "price": 312.45,
+    "change": 1.45
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix Inc.",
+    "price": 453.12,
+    "change": 4.76
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "price": 1185.47,
+    "change": 25.43
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba Group Holding Ltd.",
+    "price": 87.91,
+    "change": -0.61
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "price": 35.62,
+    "change": -0.22
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "price": 117.56,
+    "change": 1.18
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems Inc.",
+    "price": 54.81,
+    "change": 0.47
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "price": 622.55,
+    "change": -6.14
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce Inc.",
+    "price": 268.91,
+    "change": 3.12
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "price": 61.73,
+    "change": -0.58
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies Inc.",
+    "price": 68.45,
+    "change": 1.14
+  },
+  {
+    "symbol": "LYFT"
