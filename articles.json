@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "title": "SwiftUI Architecture",
+    "summary": "Learn about MVVM and clean architecture patterns in SwiftUI.",
+    "content": "Full content here...",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 2,
+    "title": "Concurrency in Swift",
+    "summary": "Explore async/await, actors, and structured concurrency.",
+    "content": "Full content here...",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 3,
+    "title": "Working with Combine",
+    "summary": "Understand Combine framework and reactive programming.",
+    "content": "Full content on Combine here...",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 4,
+    "title": "iOS Networking",
+    "summary": "Handle network calls using URLSession and Alamofire.",
+    "content": "Detailed network handling techniques...",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 5,
+    "title": "Swift Package Manager",
+    "summary": "Manage dependencies using Swift Package Manager.",
+    "content": "Learn how to integrate packages in Swift.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 6,
+    "title": "Core Data Basics",
+    "summary": "Persist data with Core Data in iOS apps.",
+    "content": "Core Data tutorial and code examples.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 7,
+    "title": "Unit Testing in Swift",
+    "summary": "Create unit tests and use XCTest effectively.",
+    "content": "How to write testable code in Swift.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 8,
+    "title": "Swift Generics Deep Dive",
+    "summary": "Understand and apply generics in Swift.",
+    "content": "Generic types and functions explained.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 9,
+    "title": "UIKit vs SwiftUI",
+    "summary": "Compare UIKit and SwiftUI for building interfaces.",
+    "content": "Pros and cons of each UI framework.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 10,
+    "title": "SwiftUI Animations",
+    "summary": "Add smooth animations with SwiftUI.",
+    "content": "Using transitions, gestures and implicit animations.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 11,
+    "title": "iOS App Lifecycle",
+    "summary": "Understand the app lifecycle in UIKit and SwiftUI.",
+    "content": "From launch to termination.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 12,
+    "title": "App Clips in iOS",
+    "summary": "Create lightweight parts of your app with App Clips.",
+    "content": "How to build and configure App Clips.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 13,
+    "title": "WidgetKit Overview",
+    "summary": "Create widgets using WidgetKit for iOS.",
+    "content": "Building home screen widgets with SwiftUI.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 14,
+    "title": "Swift Protocol-Oriented Programming",
+    "summary": "Leverage protocols to structure your Swift code.",
+    "content": "Protocol extensions, composition, and usage.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 15,
+    "title": "Accessibility in iOS",
+    "summary": "Make your iOS app accessible to everyone.",
+    "content": "VoiceOver, Dynamic Type, and accessibility APIs.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 16,
+    "title": "Localization in SwiftUI",
+    "summary": "Translate your app for multiple languages.",
+    "content": "Using NSLocalizedString and localization files.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 17,
+    "title": "SwiftUI NavigationStack",
+    "summary": "Use NavigationStack for modern navigation.",
+    "content": "Replacing NavigationView in iOS 16+.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 18,
+    "title": "JSON Parsing in Swift",
+    "summary": "Decode and encode JSON with Codable.",
+    "content": "Handling nested JSON and custom decoding.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 19,
+    "title": "State Management in SwiftUI",
+    "summary": "Use @State, @Binding, and @ObservedObject.",
+    "content": "Managing UI and business state effectively.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 20,
+    "title": "Secure Storage in iOS",
+    "summary": "Use Keychain and Secure Enclave in your app.",
+    "content": "Storing sensitive data securely.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 21,
+    "title": "ARKit Basics",
+    "summary": "Get started with augmented reality using ARKit.",
+    "content": "Place 3D objects in the real world.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 22,
+    "title": "Metal for iOS Developers",
+    "summary": "Use Metal for high-performance graphics rendering.",
+    "content": "Introduction to shaders and GPU programming.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 23,
+    "title": "Design Patterns in Swift",
+    "summary": "Implement common design patterns like Singleton, Factory.",
+    "content": "Patterns that help maintainable code.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 24,
+    "title": "Swift Error Handling",
+    "summary": "Handle errors using try/catch and Result.",
+    "content": "Error handling best practices.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 25,
+    "title": "Bluetooth in iOS",
+    "summary": "Use CoreBluetooth to connect to peripherals.",
+    "content": "Building BLE apps in Swift.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 26,
+    "title": "Intro to RealityKit",
+    "summary": "Build AR experiences with RealityKit.",
+    "content": "Using Reality Composer and Swift.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 27,
+    "title": "iOS App Distribution",
+    "summary": "Distribute apps via TestFlight and App Store.",
+    "content": "Certificates, provisioning, and beta testing.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 28,
+    "title": "CoreMotion in iOS",
+    "summary": "Access accelerometer, gyroscope, and motion data.",
+    "content": "Building motion-aware apps.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 29,
+    "title": "Dark Mode Support",
+    "summary": "Adapt UI to system light/dark mode settings.",
+    "content": "Dynamic colors and asset management.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 30,
+    "title": "SF Symbols in SwiftUI",
+    "summary": "Use scalable Apple-designed symbols.",
+    "content": "Integrating icons into your interface.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 31,
+    "title": "Push Notifications",
+    "summary": "Send remote and local notifications in iOS.",
+    "content": "Using UNUserNotificationCenter and APNs.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 32,
+    "title": "Firebase Integration",
+    "summary": "Integrate Firebase for analytics and backend.",
+    "content": "Using Firestore, Auth, and Storage.",
+    "thumbnail": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 33,
+    "title": "SwiftUI Previews",
+    "summary": "Use Xcode previews for faster UI development.",
+    "content": "Previews for components and layouts.",
+    "thumbnail": "https://via.placeholder.com/100"
+  }
+]
